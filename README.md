@@ -47,6 +47,7 @@ The project emphasizes:
 - Maintained clean and scalable project structure
 - Version controlled using Git
 
+## 🌍 Live Demo
 
-
+🔗 [Click here to view the live demo](https://keerthiiv.github.io/wildlife-photography/)
 
