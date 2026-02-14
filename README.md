@@ -48,5 +48,5 @@ The project emphasizes:
 - Version controlled using Git
 
 
-## 🌍 Live Demo
+
 
