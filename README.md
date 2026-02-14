@@ -49,5 +49,5 @@ The project emphasizes:
 
 
 ## 🌍 Live Demo
-[Live Demo] (https://keerthiiv.github.io/wildlife-photography/-url.com)
+[Live Demo] (https://keerthiiv.github.io/wildlife-photography/)
 
