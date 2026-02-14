@@ -48,6 +48,5 @@ The project emphasizes:
 - Version controlled using Git
 
 
-## 🌍 Live Demo
-[ Live Demo ](https://keerthiiv.github.io/wildlife-photography/)
+
 
