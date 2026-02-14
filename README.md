@@ -49,5 +49,5 @@ The project emphasizes:
 
 
 ## 🌍 Live Demo
-(Add your GitHub Pages link here once enabled)
+Live Demo (https://keerthiiv.github.io/wildlife-photography/)
 
