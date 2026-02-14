@@ -25,15 +25,15 @@ The project emphasizes:
 ## 🖼️ Screenshots
 
 ### 🌄 Hero Section
-![Hero Section](images/screenshots/hero.png)
+![Hero Section](images/screenshot/hero.png)
 
 
 ### 🐾 Gallery Section
-![Gallery Section](images/screenshots/gallery.png)
+![Gallery Section](images/screenshot/gallery.png)
 
 
 ### 📱 Responsive View
-![Responsive View](images/screenshots/responsive.png)
+![Responsive View](images/screenshot/responsive.png)
 
 
 ## 🛠️ Technologies Used
