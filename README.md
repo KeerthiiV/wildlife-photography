@@ -27,13 +27,11 @@ The project emphasizes:
 ### 🌄 Hero Section
 ![Hero Section](images/screenshot/hero.png)
 
+### 📱 About Section
+![About Section](images/screenshot/about.png)
 
 ### 🐾 Gallery Section
 ![Gallery Section](images/screenshot/gallery.png)
-
-
-### 📱 Responsive View
-![Responsive View](images/screenshot/responsive.png)
 
 
 ## 🛠️ Technologies Used
